@@ -1,1 +1,1 @@
-# vstup_tg_bot
+# tgbot_vstup
